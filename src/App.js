@@ -6,11 +6,10 @@ import Footer from './componants/Footer';
 function App() {
   return (
     <>
-      <Navbar/>
+      <Navbar/> 
       <Outlet/>
-      <Footer/> 
+      <Footer/>
     </>
   );  
 }
-
 export default App;
