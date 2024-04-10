@@ -1,0 +1,31 @@
+.footer {
+    background-color: #636363; /* Set background color */
+    color: #fff; /* Set text color */
+    padding: 40px 0; /* Add padding */
+    text-align: center; /* Align text to center */
+}
+
+.container {
+    max-width: 1200px; /* Set maximum width for the container */
+    margin: 0 auto; /* Center the container */
+}
+
+.footer-items {
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer-item {
+    flex: 1;
+    margin: 0 20px;
+}
+
+.footer-item h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.footer-item p {
+    font-size: 16px;
+    margin: 5px 0;
+}
