@@ -26,7 +26,7 @@ const router = createBrowserRouter([
         element: <Contact/>
       }
     ]
-  }
+  } 
 ])
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
